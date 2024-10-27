@@ -1,8 +1,8 @@
 # Personal Details
-**Name:** HARSH CHANDRA SRIVASTAVA
-**University Roll Number:** 2300290120105
-**Branch:** CS
-**Year:** 2nd
+**Name:** HARSH CHANDRA SRIVASTAVA\
+**University Roll Number:** 2300290120105\
+**Branch:** CS\
+**Year:** 2nd\
 **Section:** B
 
 ## Project 1 : Style a basic webpage(Easy)
